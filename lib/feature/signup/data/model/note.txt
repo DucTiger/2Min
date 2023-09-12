@@ -1,0 +1,1 @@
+User model can use in multiple place in app. So I put user model to common folder.

@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+.idea
+
+node_modules/
+
+.packages
+.pub/
+
+build/
+
+.vscode/
+
+coverage/

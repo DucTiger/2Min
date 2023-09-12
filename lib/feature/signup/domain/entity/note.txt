@@ -1,0 +1,1 @@
+User entity can use in multiple place in app. So I put user entity to common folder.
